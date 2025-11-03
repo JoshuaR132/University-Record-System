@@ -67,4 +67,3 @@ Includes sample data for:
 
 *   Java 8 or higher
 *   Any IDE or command-line compiler
-```
